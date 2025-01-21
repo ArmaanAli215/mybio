@@ -3,7 +3,7 @@ const siteConfig = {
     siteName: "Armaan's Portfolio",
     name: "Armaan",
     title: "AI Developer",
-    profilePic: "./assets/profile.png",
+    profilePic: "./mybio/profile.png",
     
     // Bio Sections
     shortBio: "Creative AI developer passionate about building intelligent solutions. Specializing in AI development and machine learning applications.",
